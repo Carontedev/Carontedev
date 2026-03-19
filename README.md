@@ -1,59 +1,95 @@
 # Carontedev
 
-> I build web platforms focused on usability and real-world workflows — not just demos.
+> I build web platforms focused on real user experience, clear purpose, and systems that people actually use.
 
 ---
 
-## ⚡ What I’m Working On
+## 🇸🇻 Main Project — RetroSivar
 
-* Building a **3D model showcase platform** with a Discord-based ordering system
-* Designing flows that reduce friction instead of adding unnecessary features
-* Exploring scalable frontend architecture without overengineering
+https://retrosivar.xyz
+
+A platform dedicated to preserving and playing traditional Salvadoran card games online.
+
+### Why it exists
+
+There’s a gap: many traditional Salvadoran games are not accessible online.
+RetroSivar aims to bring them back in a modern, usable format.
+
+### Focus
+
+* Reviving cultural games digitally
+* Making them accessible to new generations
+* Designing simple, intuitive gameplay flows
 
 ---
 
-## 🧠 How I Think
+## 🧩 Other Project — CaroStudio
 
-* Simplicity > complexity
-* Real users > perfect code
-* Working systems > theoretical architecture
+https://carostudio.xyz
+
+A modern showcase platform for FiveM 3D models.
+
+### Goal
+
+Improve how digital assets are presented and selected before purchase.
+
+### Focus
+
+* Clean and modern UI
+* Better browsing experience for models
+* Practical flow for client interaction
 
 ---
 
-## 🛠 Tech I Actually Use
+## 🧠 How I Build
+
+* Start from a real problem, not just an idea
+* Keep systems simple and focused
+* Prioritize usability over unnecessary features
+* Avoid overengineering
+
+---
+
+## 🛠 Tech
 
 * React / Next.js
 * TailwindCSS
 * Node.js
+* Python (actively learning and applying in projects)
 
-> I focus on using tools effectively, not collecting them.
+---
+
+## 🤖 Current Exploration
+
+* Integrating AI into real workflows (not standalone demos)
+* Building small tools and features powered by AI
+* Using Python for automation and backend support
 
 ---
 
 ## 🚧 Current Focus
 
-* Improving UX in marketplace-style apps
-* Structuring projects so they scale without becoming messy
-* Turning side projects into real, usable products
+* Turning projects into usable products, not just demos
+* Improving UX in marketplace-style platforms
+* Structuring codebases that scale without becoming messy
 
 ---
 
-## 📂 Selected Work
+## 📂 What You’ll Find Here
 
-* 3D Model Platform (in progress)
-  → Focus: browsing experience + Discord conversion flow
-
-> More projects coming as they reach a usable state.
+* Real projects (not just tutorials)
+* Work focused on usability and flow
+* Continuous iteration and improvement
 
 ---
 
 ## 📫 Contact
 
 * GitHub: https://github.com/Carontedev
-* Discord: (your handle here)
+* Discord: (add your handle)
 
 ---
 
 ## ⚠️ Note
 
-Most of my work focuses on **practical systems and user flow**, not just visuals or isolated components.
+Most of my work focuses on **practical systems and user experience**, not just visuals or isolated components.
