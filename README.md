@@ -79,15 +79,10 @@ I'm a **developer** interested in how things work, from the logic behind a featu
 
 <br />
 
-<h2 align="center">◈ Beyond the code</h2>
+<h2 align="center">◈ Mindset</h2>
 
 <p align="center">
-  I like understanding the why behind the code.<br />
-  Learning, experimenting and sharing what I build along the way.
-</p>
-
-<p align="center">
-  <img src="./mindset.svg" width="100%" alt="Keep learning. Keep building. Make every iteration count." />
+  <img src="./assets/mindset-card.svg" width="100%" alt="Constantly evolving and improving every single day. — If you can believe it, you can build it 🚀" />
 </p>
 
 <p align="center"><sub>DavidM / Abbys &nbsp;·&nbsp; <a href="https://github.com/Carontedev">@Carontedev</a></sub></p>

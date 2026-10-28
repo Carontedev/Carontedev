@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Constantly evolving and improving every single day. — If you can believe it, you can build it 🚀</title>
+  <defs><linearGradient id="bg" x2="1000" y2="150" gradientUnits="userSpaceOnUse"><stop stop-color="#102B43"/><stop offset="1" stop-color="#0B1726"/></linearGradient></defs>
+  <rect x="0.5" y="0.5" width="999" height="149" rx="8" fill="url(#bg)" stroke="#244561"/>
+  <path d="M760 150 910 0m-96 150L964 0m-96 150L1018 0m-96 150L1072 0" stroke="#244561" stroke-opacity="0.5"/>
+  <text x="38" y="92" font-family="Georgia, serif" font-size="96" fill="#70B5E8" opacity="0.55">“</text>
+  <text x="108" y="65" font-family="'Segoe UI', Arial, sans-serif" font-size="26" font-style="italic" font-weight="500" fill="#D7EDFF">Constantly evolving and improving every single day.</text>
+  <text x="950" y="112" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="21" font-weight="600" fill="#8DB4D2">— If you can believe it, you can build it 🚀</text>
+</svg>

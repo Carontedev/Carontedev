@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="112" viewBox="0 0 1000 112" fill="none" role="img" aria-labelledby="title">
-  <title id="title">Keep learning. Keep building. Make every iteration count.</title>
-  <defs><linearGradient id="bg" x2="1000" y2="112" gradientUnits="userSpaceOnUse"><stop stop-color="#102B43"/><stop offset="1" stop-color="#0B1726"/></linearGradient></defs>
-  <rect x="0.5" y="0.5" width="999" height="111" rx="8" fill="url(#bg)" stroke="#244561"/>
-  <path d="m60 43-14 13 14 13m26-26 14 13-14 13m-9-32-9 38" stroke="#70B5E8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="132" y="51" font-family="'Segoe UI', Arial, sans-serif" font-size="23" font-weight="600" fill="#D7EDFF">Keep learning. Keep building.</text>
-  <text x="132" y="78" font-family="'Segoe UI', Arial, sans-serif" font-size="14" letter-spacing="1" fill="#8DB4D2">MAKE EVERY ITERATION COUNT.</text>
-  <path d="M760 112 872 0m-58 112L926 0m-58 112L980 0m-58 112L1034 0" stroke="#244561" stroke-opacity="0.5"/>
-</svg>
