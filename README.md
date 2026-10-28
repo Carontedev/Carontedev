@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Welcome to Carontedev's GitHub — DavidM / Abbys. Code, interfaces and problem solving. Blue mountains and a winding river beneath the stars." />
+  <img src="./header.svg" width="100%" alt="Hello, I'm David / Abbys. Code, interfaces and problem solving. Blue mountains and a winding river beneath the stars." />
 </p>
 
 <p align="center">
