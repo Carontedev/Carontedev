@@ -47,23 +47,6 @@ I'm a **developer** interested in how things work, from the logic behind a featu
 <br clear="all" />
 <br />
 
-<h2 align="center">◈ Knowledge &amp; skills</h2>
-
-<table>
-  <tr>
-    <th width="33%" align="left">01 / Programming</th>
-    <th width="33%" align="left">02 / Web interfaces</th>
-    <th width="33%" align="left">03 / Data &amp; tools</th>
-  </tr>
-  <tr>
-    <td>Lua, JavaScript and Python for scripting, application logic and practical tools.</td>
-    <td>HTML and CSS for layout and styling, with JavaScript for interaction.</td>
-    <td>MySQL for working with data. Git and GitHub for version control and collaboration.</td>
-  </tr>
-</table>
-
-<br />
-
 <h2 align="center">◈ GitHub activity</h2>
 
 <p align="center">
