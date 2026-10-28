@@ -34,7 +34,7 @@
 
 <img align="left" src="./assets/avatar.png" width="160" alt="DavidM's illustrated avatar with headphones, a red cap and a blue hoodie" />
 
-### Hey, I'm DavidM · Abbys
+### Hey, I'm David Moran
 
 I'm a **developer** interested in how things work, from the logic behind a feature to the interface people use. I work with **Lua, JavaScript, HTML, CSS, Python and MySQL**, and enjoy turning what I learn into practical projects.
 
