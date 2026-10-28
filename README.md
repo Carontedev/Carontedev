@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Hello, I'm David / Abbys. Blue mountains and a winding river beneath the stars." />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Hello, I'm David / Abbys. Blue mountains and a winding river beneath the stars." />
 </p>
 
 <p align="center">
