@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Welcome to Carontedev's GitHub — DavidM / Abbys. FiveM and Lua developer. Blue mountains and a winding river beneath the stars." />
+  <img src="./header.svg" width="100%" alt="Welcome to Carontedev's GitHub — DavidM / Abbys. Code, interfaces and problem solving. Blue mountains and a winding river beneath the stars." />
 </p>
 
 <p align="center">
@@ -7,17 +7,16 @@
   <a href="https://github.com/Carontedev?tab=stars"><img src="https://img.shields.io/badge/TOOLS_%26_INSPIRATION-244F75?style=for-the-badge&amp;logo=github&amp;logoColor=C4E4FF" alt="Tools and inspiration: my starred repositories" /></a>
 </p>
 
-<p align="center"><samp>Game mechanics. Thoughtful interfaces. A little less resmon.</samp></p>
+<p align="center"><samp>Writing code. Understanding systems. Always learning.</samp></p>
 
 <br />
 
 <h2 align="center">◈ Technologies</h2>
 
-<p align="center"><sub>The tools behind my resources, interfaces and experiments.</sub></p>
+<p align="center"><sub>Languages and tools I work with.</sub></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LUA-0D233D?style=for-the-badge&amp;logo=lua&amp;logoColor=C4E4FF" alt="Lua" />
-  <img src="https://img.shields.io/badge/FIVEM-0D233D?style=for-the-badge&amp;logo=fivem&amp;logoColor=C4E4FF" alt="FiveM" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-173958?style=for-the-badge&amp;logo=javascript&amp;logoColor=C4E4FF" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-173958?style=for-the-badge&amp;logo=html5&amp;logoColor=C4E4FF" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-173958?style=for-the-badge" alt="CSS3" />
@@ -37,29 +36,29 @@
 
 ### Hey, I'm DavidM · Abbys
 
-I'm a **FiveM and Lua developer** focused on lightweight game mechanics and clean interfaces. I enjoy turning ideas into useful resources for roleplay servers and the community.
+I'm a **developer** interested in how things work, from the logic behind a feature to the interface people use. I work with **Lua, JavaScript, HTML, CSS, Python and MySQL**, and enjoy turning what I learn into practical projects.
 
-**Currently building** → FiveM resources with Lua, JavaScript and NUI.
+**My interests** → Programming, interface design, automation and problem solving.
 
-**Always refining** → Script performance, UI design and code structure.
+**Always refining** → Code structure, debugging and performance.
 
-**Let's talk about** → Lua optimization, game mechanics and community projects.
+**Hands-on experience** → Community tools and FiveM projects, where I apply scripting and UI development.
 
 <br clear="all" />
 <br />
 
-<h2 align="center">◈ Development focus</h2>
+<h2 align="center">◈ Knowledge &amp; skills</h2>
 
 <table>
   <tr>
-    <th width="33%" align="left">01 / Game mechanics</th>
-    <th width="33%" align="left">02 / Interfaces</th>
-    <th width="33%" align="left">03 / Performance</th>
+    <th width="33%" align="left">01 / Programming</th>
+    <th width="33%" align="left">02 / Web interfaces</th>
+    <th width="33%" align="left">03 / Data &amp; tools</th>
   </tr>
   <tr>
-    <td>Lightweight Lua resources built around immersive roleplay.</td>
-    <td>Clean NUI experiences with HTML, CSS and JavaScript.</td>
-    <td>Better script structure, fewer wasted ticks and a close eye on resmon.</td>
+    <td>Lua, JavaScript and Python for scripting, application logic and practical tools.</td>
+    <td>HTML and CSS for layout and styling, with JavaScript for interaction.</td>
+    <td>MySQL for working with data. Git and GitHub for version control and collaboration.</td>
   </tr>
 </table>
 
@@ -83,8 +82,8 @@ I'm a **FiveM and Lua developer** focused on lightweight game mechanics and clea
 <h2 align="center">◈ Beyond the code</h2>
 
 <p align="center">
-  Building for the community. Learning through every iteration.<br />
-  Chasing that <code>0.00ms</code> resmon tick — one resource at a time.
+  I like understanding the why behind the code.<br />
+  Learning, experimenting and sharing what I build along the way.
 </p>
 
 <p align="center">

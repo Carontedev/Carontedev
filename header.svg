@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Welcome to Carontedev's GitHub</title>
-  <desc id="desc">DavidM / Abbys. FiveM and Lua developer. Blue mountains and a luminous winding river beneath the stars.</desc>
+  <desc id="desc">DavidM / Abbys. Code, interfaces and problem solving. Blue mountains and a luminous winding river beneath the stars.</desc>
   <defs>
     <linearGradient id="sky" x1="600" y1="0" x2="600" y2="400" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1726"/><stop offset="0.65" stop-color="#254D70"/><stop offset="1" stop-color="#7AB5DA"/></linearGradient>
     <linearGradient id="river" x1="600" y1="230" x2="600" y2="400" gradientUnits="userSpaceOnUse"><stop stop-color="#77B2D7"/><stop offset="1" stop-color="#D0EEFF"/></linearGradient>
@@ -14,7 +14,7 @@
     <g font-family="'Segoe UI', Arial, sans-serif" text-anchor="middle">
       <text x="600" y="72" fill="#88B5D8" font-size="12" letter-spacing="5">DAVIDM / ABBYS</text>
       <text x="600" y="136" fill="#E4F3FF" font-size="43" font-weight="600" letter-spacing="-1">Welcome to Carontedev's GitHub</text>
-      <text x="600" y="175" fill="#A9CDE7" font-size="16" letter-spacing="2">FIVEM &amp; LUA DEVELOPER</text>
+      <text x="600" y="175" fill="#A9CDE7" font-size="16" letter-spacing="2">CODE · INTERFACES · PROBLEM SOLVING</text>
       <text x="600" y="213" fill="#86B8DB" font-family="Consolas, monospace" font-size="21">&lt;/&gt;</text>
     </g>
     <path d="M0 267C84 253 129 220 209 242S333 275 421 250 531 237 600 248 700 260 781 236 903 220 975 244 1120 229 1200 241V400H0Z" fill="#254D6C"/>
