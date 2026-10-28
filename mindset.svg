@@ -1,6 +1,9 @@
-<svg width="600" height="105" viewBox="0 0 600 105" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0.5" y="0.5" width="599" height="104" rx="10" fill="#1a1b27" stroke="#a371f7" stroke-width="1.2" stroke-opacity="0.4"/>
-  <text x="30" y="50" fill="#a371f7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="bold" opacity="0.6">“</text>
-  <text x="65" y="44" fill="#70a5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-style="italic" font-weight="500">Constantly evolving and improving every single day.</text>
-  <text x="560" y="80" text-anchor="end" fill="#a371f7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600">— If you can believe it, you can build it 🚀</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="112" viewBox="0 0 1000 112" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Keep learning. Keep building. Make every iteration count.</title>
+  <defs><linearGradient id="bg" x2="1000" y2="112" gradientUnits="userSpaceOnUse"><stop stop-color="#102B43"/><stop offset="1" stop-color="#0B1726"/></linearGradient></defs>
+  <rect x="0.5" y="0.5" width="999" height="111" rx="8" fill="url(#bg)" stroke="#244561"/>
+  <path d="m60 43-14 13 14 13m26-26 14 13-14 13m-9-32-9 38" stroke="#70B5E8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="132" y="51" font-family="'Segoe UI', Arial, sans-serif" font-size="23" font-weight="600" fill="#D7EDFF">Keep learning. Keep building.</text>
+  <text x="132" y="78" font-family="'Segoe UI', Arial, sans-serif" font-size="14" letter-spacing="1" fill="#8DB4D2">MAKE EVERY ITERATION COUNT.</text>
+  <path d="M760 112 872 0m-58 112L926 0m-58 112L980 0m-58 112L1034 0" stroke="#244561" stroke-opacity="0.5"/>
 </svg>
