@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Carontedev?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-112C48?style=for-the-badge&amp;logo=github&amp;logoColor=C4E4FF" alt="Explore my repositories" /></a>
+  <a href="https://discord.com/users/1439692363273601224"><img src="https://img.shields.io/badge/DISCORD-112C48?style=for-the-badge&amp;logo=discord&amp;logoColor=C4E4FF" alt="Contact abbysss._. on Discord" /></a>
   <a href="https://github.com/Carontedev?tab=stars"><img src="https://img.shields.io/badge/TOOLS_%26_INSPIRATION-244F75?style=for-the-badge&amp;logo=github&amp;logoColor=C4E4FF" alt="Tools and inspiration: my starred repositories" /></a>
 </p>
 
